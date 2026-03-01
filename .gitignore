@@ -1,2 +1,4 @@
 .qodo
 .DS_Store
+*.pyc
+*.zip
